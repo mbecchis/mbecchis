@@ -16,7 +16,7 @@ projects
   <br>👷 Projects: Doomsday algorithm
   ...
   <br>🎯 Goals: ...
-  <br>🎲 Fun fact: ...</p>
+  <br>🎲 Fun fact: I really love Rubik's cube puzzles (PB: 22 seconds come @me)</p>
 
 ###
 
